@@ -1,5 +1,14 @@
 # Orb Runner — Godot 4 web export
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fgodot-arcade&template=godot-arcade"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=godot-arcade"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/godot-arcade"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/godot-arcade/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 A complete 3D arcade game in ~150 lines of GDScript, exported to WebAssembly. Roll the
 sphere, collect orbs, don't fall off the arena. The whole world is built in code, so the
 repo has no binary scenes to merge-conflict on.
